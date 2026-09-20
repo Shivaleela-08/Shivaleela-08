@@ -1,4 +1,4 @@
-# hey, i'm Shivaleela 👋
+# Hey, I'm Shivaleela 👋
 
 ### AI/ML • Software • curious about how things work
 
@@ -11,14 +11,14 @@ and learning how to make systems smarter and more reliable.
 
 ---
 
-### 🧠 what i'm into
+### 🧠 What i'm into
 
 `AI/ML` · `GenAI` · `LLMs` · `RAG` · `Computer Vision`
 `Full-Stack` · `APIs` · `DSA`
 
 ---
 
-### 🔨 things i've built
+### 🔨 Things i've built
 
 **🧩 LLD Practice Platform**  
 Practice LLD problems with structured submissions, AI-assisted evaluation,
@@ -42,14 +42,14 @@ evaluation, and candidate workflows.
 
 ---
 
-### 💻 my toolbox
+### 💻 My toolbox
 
 `Python` `Java` `SQL` `React` `HTML/CSS` `MySQL`
 `Git` `REST APIs` `Machine Learning`
 
 ---
 
-### 🌱 currently learning
+### 🌱 Currently learning
 
 **DSA** · **System Design** · **LLM Applications** · **RAG**
 · **Backend Engineering**
