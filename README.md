@@ -56,11 +56,9 @@ evaluation, and candidate workflows.
 
 ---
 
-### let's connect
+### 🔗 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/shivaleela-mangalur
-
-)
+www.linkedin.com/in/shivaleela-mangalur
 
 <br>
 
