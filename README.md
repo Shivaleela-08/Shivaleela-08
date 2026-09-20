@@ -24,6 +24,10 @@ and learning how to make systems smarter and more reliable.
 Practice LLD problems with structured submissions, AI-assisted evaluation,
 explainable feedback, and attempt tracking.
 
+**🛒 Mandate Checkout Agent**  
+An AI-powered checkout workflow exploring agent-based interactions,
+tool calling, and automated decision-making across the checkout process.
+
 **🌱 Smart Urban Cooling**  
 AI + IoT project exploring environmental data, prediction, and smarter
 urban systems.
