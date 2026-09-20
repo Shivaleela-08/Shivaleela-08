@@ -1,55 +1,56 @@
 # hey, i'm Shivaleela 👋
 
-### AI/ML • Software • a little too curious about how things work
+### AI/ML • Software • curious about how things work
 
-I like taking an idea, turning it into a system, and then spending way too
-much time figuring out why it doesn't work the first time.
+I like turning ideas into things that actually work — sometimes after
+breaking them a few times first.
 
-Currently exploring the space between **AI and software engineering** —
-building applications, experimenting with ML, and learning how to make
-things more useful, reliable, and scalable.
+Currently exploring the space between **AI and software engineering**,
+with a focus on building practical applications, experimenting with ML,
+and learning how to make systems smarter and more reliable.
 
 ---
 
 ### 🧠 what i'm into
 
-`Artificial Intelligence` · `Machine Learning` · `GenAI` · `LLMs`
-`RAG` · `Computer Vision` · `Full-Stack Development` · `APIs`
+`AI/ML` · `GenAI` · `LLMs` · `RAG` · `Computer Vision`
+`Full-Stack` · `APIs` · `DSA`
+
+---
 
 ### 🔨 things i've built
 
 **🧩 LLD Practice Platform**  
-Practicing Low-Level Design with structured submissions,
-AI-assisted evaluation, explainable feedback, and attempt tracking.
+Practice LLD problems with structured submissions, AI-assisted evaluation,
+explainable feedback, and attempt tracking.
 
 **🌱 Smart Urban Cooling**  
-An AI + IoT project exploring environmental data, prediction,
-and smarter urban systems.
+AI + IoT project exploring environmental data, prediction, and smarter
+urban systems.
 
 **♻️ Waste Segregation AI**  
-A computer vision project using CNNs to classify waste.
+CNN-based computer vision for classifying biodegradable and
+non-biodegradable waste.
 
 **🌐 Assessment Portal**  
-Building a platform around assessments, evaluation, and candidate workflows.
+Building an assessment platform for managing assessments,
+evaluation, and candidate workflows.
 
 ---
 
 ### 💻 my toolbox
 
-**Python** · **Java** · **SQL** · **React** · **HTML/CSS**  
-**MySQL** · **Git** · **REST APIs** · **Machine Learning**
+`Python` `Java` `SQL` `React` `HTML/CSS` `MySQL`
+`Git` `REST APIs` `Machine Learning`
 
 ---
 
 ### 🌱 currently learning
 
-DSA • System Design • LLM applications • RAG • better backend engineering
+**DSA** · **System Design** · **LLM Applications** · **RAG**
+· **Backend Engineering**
 
 ---
-
-### find me elsewhere
-
-[LinkedIn](YOUR_LINKEDIN) · [LeetCode](YOUR_LEETCODE) · [Email](YOUR_EMAIL)
 
 <br>
 
